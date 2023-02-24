@@ -42,7 +42,7 @@ In my career, I am looking to enhance my technical skills in backend development
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![Bootsrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=ddc508)
-![react](https://img.shields.io/badge/-React-000?&logo=react.js&logoColor=ddc508)
+![react](https://img.shields.io/badge/-React-000?&logo=react&logoColor=ddc508)
 
 ### IDEs:
 
