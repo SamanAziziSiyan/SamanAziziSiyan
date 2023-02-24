@@ -18,7 +18,7 @@ In my career, I am looking to enhance my technical skills in backend development
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:samanazizi1394@gmail.com)
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeidheidari&layout=compact&theme=tokyonight&hide_border=true" width="100%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyGambler&layout=compact&theme=tokyonight&hide_border=true" width="100%" >
 
 ### Back-End Skills:
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
@@ -65,7 +65,7 @@ In my career, I am looking to enhance my technical skills in backend development
 
 
 <!--
-**MoeidHeidari/moeidheidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SammyGambler/SammyGambler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
