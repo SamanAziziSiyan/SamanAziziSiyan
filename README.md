@@ -21,7 +21,7 @@ In my career, I am looking to enhance my technical skills in backend development
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyGambler&layout=compact&theme=tokyonight&hide_border=true" width="100%" >
 
 ### Back-End Skills:
-![PHP](https://img.shields.io/badge/-Node-000?&logo=PHP)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 
 ### DevOps Skills:
@@ -41,8 +41,8 @@ In my career, I am looking to enhance my technical skills in backend development
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![Bootsrap](https://img.shields.io/badge/-JavaScript-000?&logo=bootstrap&logoColor=ddc508)
-![react](https://img.shields.io/badge/-JavaScript-000?&logo=react&logoColor=ddc508)
+![Bootsrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=ddc508)
+![react](https://img.shields.io/badge/-React-000?&logo=react&logoColor=ddc508)
 
 ### IDEs:
 
