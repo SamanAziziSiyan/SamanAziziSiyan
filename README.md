@@ -49,6 +49,11 @@ In my career, I am looking to enhance my technical skills in backend development
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-000?&logo=PHPStorm&logoColor=007ACC)
 
+### Editors:
+![Notepad++](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+
+
 
 <!--
 **SammyGambler/SammyGambler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
