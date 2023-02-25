@@ -1,9 +1,9 @@
-## Hello
+## Hey there
 ![](https://komarev.com/ghpvc/?username=moeidheidari)
 
 
-As a solution-driven IT professional with 10+ years of experience in creating smart, next- generation software for multiple platforms such as mobile, web, desktop, as well as video games for well-established organizations, I look forward to bringing my strong technical and analytical skills to a higher level.
-In my career, I am looking to enhance my technical skills in backend development, SOLID architecture design, Micro-service pattern,Data-driven development, test-driven development,deployment automation pipeline, cloud-native programming, and provisioning.
+As a solution-driven IT professional with 8+ years of experience in creating webApplications and analysing projects and Databasess ,I look forward to bringing my strong technical and analytical skills to a higher level.
+In my career, I am looking to enhance my technical skills in backend development, SOLID architecture design, test-driven development,deployment automation pipeline, and provisioning.
 
 ---
 
