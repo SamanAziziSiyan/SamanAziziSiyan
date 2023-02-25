@@ -22,12 +22,12 @@ In my career, I am looking to enhance my technical skills in backend development
 
 ### Back-End Skills:
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 
 ### DevOps Skills:
 - Bash
 - Docker
 - Kubernetes
+- 
 
 
 
