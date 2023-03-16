@@ -18,7 +18,6 @@ In my career, I am looking to enhance my technical skills in backend development
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:samanazizi1394@gmail.com)
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyGambler&layout=compact&theme=tokyonight&hide_border=true" width="100%" >
 
 
 ### Back-End Skills:
