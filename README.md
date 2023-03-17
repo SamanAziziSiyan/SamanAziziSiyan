@@ -2,8 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=moeidheidari)
 
 
-As a solution-driven IT professional with 8+ years of experience in creating webApplications and analysing projects and Databasess ,I look forward to bringing my strong technical and analytical skills to a higher level.
-In my career, I am looking to enhance my technical skills in backend development, SOLID architecture design, test-driven development,deployment automation pipeline, and provisioning.
+As a PHP Developer with more than 8 years of experience in creating webApplications and analyzing projects and databases. Have worked in agile environments with teammates from 5 to 15 people.Have optimized and refactored code base from scratch to increase 65 performance boost in radiscar project. 
 
 ---
 
@@ -18,7 +17,7 @@ In my career, I am looking to enhance my technical skills in backend development
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:samanazizi1394@gmail.com)
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeidheidari&layout=compact&theme=tokyonight&hide_border=true" width="100%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyGambler&layout=compact&theme=tokyonight&hide_border=true" width="100%" >
 
 
 ### Back-End Skills:
