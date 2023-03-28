@@ -55,11 +55,10 @@ As a Back End Developer with more than 8 years of experience in creating webAppl
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
  -->
 # 📊 GitHub Stats:
-<div text-align:center>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamanAzizisiyan&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=SamanAzizisiyan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAzizisiyan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- </div>
 <!-- <p float="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sammygambler&theme=tokyonight&hide_border=true" width="420">
   <img src="https://github-readme-stats.vercel.app/api?username=sammygambler&show_icons=true&theme=tokyonight&hide_border=true" width="420">
