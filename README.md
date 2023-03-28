@@ -43,7 +43,7 @@ As a Back End Developer with more than 8 years of experience in creating webAppl
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saman-Azizi-siyan) 
 
-# 💻 Tech Stack:
+<!-- # 💻 Tech Stack: -->
 
 
 <!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -60,9 +60,9 @@ As a Back End Developer with more than 8 years of experience in creating webAppl
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
  -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SamanAzizisiyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SamanAzizisiyan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAzizisiyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SamanAzizisiyan&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SamanAzizisiyan&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAzizisiyan&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- <p float="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sammygambler&theme=tokyonight&hide_border=true" width="420">
   <img src="https://github-readme-stats.vercel.app/api?username=sammygambler&show_icons=true&theme=tokyonight&hide_border=true" width="420">
