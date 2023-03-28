@@ -56,8 +56,9 @@ As a Back End Developer with more than 8 years of experience in creating webAppl
  -->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SamanAzizisiyan&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SamanAzizisiyan&theme=onedark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAzizisiyan&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SamanAzizisiyan&theme=onedark&hide_border=false)
+
 <!-- <p float="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sammygambler&theme=tokyonight&hide_border=true" width="420">
   <img src="https://github-readme-stats.vercel.app/api?username=sammygambler&show_icons=true&theme=tokyonight&hide_border=true" width="420">
