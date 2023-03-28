@@ -1,6 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working in Geo Holding Company <br>🌱 I’m currently learning DevOps and Golang<br>
+## Hey there
+![](https://komarev.com/ghpvc/?username=moeidheidari)
 
+As a Back End Developer with more than 8 years of experience in creating webApplications and analyzing projects and databases. Have worked in agile environments with teammates from 5 to 15 people.Have optimized and refactored code base from scratch to increase 65 performance boost in radiscar project. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saman-Azizi-siyan) 
@@ -12,19 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamanAzizisiyan&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAzizisiyan&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SamanAzizisiyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=SamanAzizisiyan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- ## Hey there
 ![](https://komarev.com/ghpvc/?username=moeidheidari)
 
