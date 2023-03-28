@@ -34,11 +34,6 @@ As a Back End Developer with more than 8 years of experience in creating webAppl
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### IDEs:
-
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-000?&logo=PHPStorm&logoColor=007ACC)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saman-Azizi-siyan) 
@@ -60,16 +55,16 @@ As a Back End Developer with more than 8 years of experience in creating webAppl
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
  -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SamanAzizisiyan&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SamanAzizisiyan&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SamanAzizisiyan&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SamanAzizisiyan&theme=onedark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAzizisiyan&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- <p float="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sammygambler&theme=tokyonight&hide_border=true" width="420">
   <img src="https://github-readme-stats.vercel.app/api?username=sammygambler&show_icons=true&theme=tokyonight&hide_border=true" width="420">
 </p> -->
 
-### IDEs:
+<!-- ### IDEs:
 
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-000?&logo=PHPStorm&logoColor=007ACC)
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-000?&logo=PHPStorm&logoColor=007ACC) -->
 
