@@ -7,7 +7,7 @@ As a Back End Developer with more than 8 years of experience in creating webAppl
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+<!-- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  -->
 <!-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  -->
 
 ### DevOps Skills:
@@ -56,9 +56,6 @@ As a Back End Developer with more than 8 years of experience in creating webAppl
  -->
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SamanAzizisiyan&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=SamanAzizisiyan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAzizisiyan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- <p float="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sammygambler&theme=tokyonight&hide_border=true" width="420">
   <img src="https://github-readme-stats.vercel.app/api?username=sammygambler&show_icons=true&theme=tokyonight&hide_border=true" width="420">
