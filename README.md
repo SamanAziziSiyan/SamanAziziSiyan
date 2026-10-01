@@ -20,9 +20,35 @@ My experience spans large existing products, custom WordPress/WooCommerce develo
 
 ---
 
+## 📊 Engineering Snapshot
+
+<table>
+<tr>
+<td align="center"><strong>10+</strong><br/>Years developing</td>
+<td align="center"><strong>600+</strong><br/>Webilia PRs</td>
+<td align="center"><strong>30+</strong><br/>Add-ons worked on</td>
+<td align="center"><strong>5</strong><br/>Core engineering domains</td>
+</tr>
+</table>
+
+> **Portfolio evidence:** Webilia production work is proprietary, while the public repositories below provide sanitized and historical implementation evidence across WordPress, Laravel, WooCommerce, React, Next.js, TypeScript, APIs, and infrastructure.
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamanAziziSiyan&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" height="165" alt="Saman's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAziziSiyan&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165" alt="Saman's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SamanAziziSiyan&hide_border=true&theme=transparent" alt="Saman's GitHub contribution streak" />
+</p>
+
+---
+
 ## 🏢 Professional Experience
 
-### Webilia — Full Stack Developer
+### <img src="https://webilia.com/wp-content/uploads/2023/09/Webilia-2.png" width="34" height="34" alt="Webilia" /> Webilia — Full Stack Developer
 **Aug 2024 – Present**
 
 Working on the **Listdom commercial WordPress directory ecosystem** across core functionality and add-ons.
@@ -46,6 +72,37 @@ My work includes:
 This experience represents large-scale production engineering within an existing commercial ecosystem. It should not be interpreted as ownership of the entire Listdom architecture or as building the platform from scratch.
 
 Because Webilia's source code is proprietary, the public GitHub portfolio cannot directly expose this work. The professional experience is therefore an important part of the evidence behind this profile.
+
+---
+
+## 🧭 Engineering Footprint
+
+```mermaid
+flowchart LR
+    A[Full Stack Engineering] --> B[PHP Ecosystem]
+    A --> C[Modern Frontend]
+    A --> D[APIs & Integrations]
+    A --> E[Infrastructure]
+
+    B --> B1[WordPress]
+    B --> B2[WooCommerce]
+    B --> B3[Laravel]
+    B --> B4[MySQL]
+
+    C --> C1[JavaScript]
+    C --> C2[TypeScript]
+    C --> C3[React]
+    C --> C4[Next.js]
+
+    D --> D1[REST APIs]
+    D --> D2[Third-party Services]
+    D --> D3[Multi-backend Systems]
+
+    E --> E1[Linux]
+    E --> E2[Docker]
+    E --> E3[Kubernetes]
+    E --> E4[GitHub Actions]
+```
 
 ---
 
@@ -94,13 +151,18 @@ Because Webilia's source code is proprietary, the public GitHub portfolio cannot
 
 ---
 
-## 📊 How I Approach Engineering
+## 📈 Delivery Profile
 
-I care about understanding the system, not just implementing isolated features.
-
-**Architecture → Data flow → Business logic → Integration boundaries → Failure cases → Performance → Security → Maintainability → Deployment**
-
-I am comfortable moving between backend, frontend, database, integration, and infrastructure concerns when a problem requires a full-system view.
+| Area | Evidence |
+|---|---|
+| Production engineering | **600+ PRs** in the Webilia/Listdom ecosystem |
+| WordPress ecosystem | Core product work, themes, plugins, integrations and add-ons |
+| Component/product work | **Template Builder, Demo Importer, Settings Panel, Placora** |
+| Integrations | Payment systems, WooCommerce, external APIs, multi-backend applications |
+| Frontend | React, Next.js, TypeScript, PWA development |
+| Backend | PHP, Laravel, WordPress, REST APIs, MySQL |
+| Infrastructure | Linux, Docker, deployment environments, Kubernetes-related work |
+| Technical leadership | Code review, architecture discussions, debugging, coordination and team leadership |
 
 ---
 
