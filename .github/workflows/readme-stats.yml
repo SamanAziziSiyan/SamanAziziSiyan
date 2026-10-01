@@ -1,6 +1,9 @@
 name: Update README GitHub stats
 
 on:
+  push:
+    paths-ignore:
+      - "profile/*.svg"
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
