@@ -24,19 +24,28 @@ My experience spans large existing products, custom WordPress/WooCommerce develo
 
 <table>
 <tr>
-<td align="center"><strong>10+</strong><br/>Years developing</td>
-<td align="center"><strong>5</strong><br/>Core engineering domains</td>
-<td align="center"><strong>30+</strong><br/>Add-ons & integrations</td>
+<td align="center" width="25%">
+<strong>10+</strong><br/>
+<sub>Years developing</sub>
+</td>
+<td align="center" width="25%">
+<strong>5</strong><br/>
+<sub>Core engineering domains</sub>
+</td>
+<td align="center" width="25%">
+<strong>30+</strong><br/>
+<sub>Add-ons & integrations</sub>
+</td>
+<td align="center" width="25%">
+<strong>4</strong><br/>
+<sub>Major components built</sub>
+</td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td align="center"><strong>10+</strong><br/>Years developing</td>
-<td align="center"><strong>4</strong><br/>Major components built</td>
-<td align="center"><strong>Public + private</strong><br/>Portfolio evidence</td>
-</tr>
-</table>
+<p align="center">
+<sub>Public + private portfolio evidence · Backend · Frontend · APIs · WordPress · Databases · Infrastructure</sub>
+</p>
 
 ### GitHub Activity
 
@@ -99,7 +108,7 @@ Because Webilia's source code is proprietary, the public GitHub portfolio cannot
 ### Infrastructure & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,apache,git,githubactions,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,apache,litespeed,git,githubactions,bash" />
 </p>
 
 **Linux · Docker · Docker Compose · Kubernetes · Nginx · Apache · LiteSpeed · Git · GitHub Actions · Bash**
