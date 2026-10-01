@@ -47,8 +47,8 @@ The GitHub contribution graph can include **private contributions as anonymized 
 The cards below therefore represent **public GitHub activity**, while the engineering snapshot above records verified professional contribution that cannot be exposed through public repository statistics.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamanAziziSiyan&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" height="165" alt="Public GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAziziSiyan&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165" alt="Public GitHub language statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamanAziziSiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" height="165" alt="Public GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAziziSiyan&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=transparent" height="165" alt="Public GitHub language statistics" />
 </p>
 
 <p align="center">
