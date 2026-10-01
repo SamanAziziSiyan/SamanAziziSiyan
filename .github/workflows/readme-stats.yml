@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
 
@@ -36,13 +36,13 @@ jobs:
         run: |
           test -s profile/stats.svg
           test -s profile/top-langs.svg
-          ! grep -q "Something went wrong" profile/stats.svg
-          ! grep -q "Something went wrong" profile/top-langs.svg
+          ! grep -qiE "Something went wrong|rate limiting|MAX_RETRY|Card generation failed" profile/stats.svg
+          ! grep -qiE "Something went wrong|rate limiting|MAX_RETRY|Card generation failed" profile/top-langs.svg
 
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README GitHub stats" || exit 0
+          git diff --cached --quiet || git commit -m "Update README GitHub stats"
           git push
