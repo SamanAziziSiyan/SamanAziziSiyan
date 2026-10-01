@@ -26,23 +26,36 @@ My experience spans large existing products, custom WordPress/WooCommerce develo
 <tr>
 <td align="center"><strong>10+</strong><br/>Years developing</td>
 <td align="center"><strong>600+</strong><br/>Webilia PRs</td>
-<td align="center"><strong>30+</strong><br/>Add-ons worked on</td>
-<td align="center"><strong>5</strong><br/>Core engineering domains</td>
+<td align="center"><strong>400+</strong><br/>Listdom Core PRs</td>
+<td align="center"><strong>200+</strong><br/>Add-on / related PRs</td>
 </tr>
 </table>
 
-> **Portfolio evidence:** Webilia production work is proprietary, while the public repositories below provide sanitized and historical implementation evidence across WordPress, Laravel, WooCommerce, React, Next.js, TypeScript, APIs, and infrastructure.
+<table>
+<tr>
+<td align="center"><strong>30+</strong><br/>Add-ons worked on</td>
+<td align="center"><strong>4</strong><br/>Major Webilia components</td>
+<td align="center"><strong>5</strong><br/>Core engineering domains</td>
+<td align="center"><strong>Public + private</strong><br/>Portfolio evidence</td>
+</tr>
+</table>
 
 ### GitHub Activity
 
+The GitHub contribution graph can include **private contributions as anonymized activity** when the profile setting is enabled. Third-party README statistics, however, should not be treated as a complete record of private-repository work.
+
+The cards below therefore represent **public GitHub activity**, while the engineering snapshot above records verified professional contribution that cannot be exposed through public repository statistics.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamanAziziSiyan&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" height="165" alt="Saman's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAziziSiyan&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165" alt="Saman's most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamanAziziSiyan&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" height="165" alt="Public GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAziziSiyan&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165" alt="Public GitHub language statistics" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SamanAziziSiyan&hide_border=true&theme=transparent" alt="Saman's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=SamanAziziSiyan&hide_border=true&theme=transparent" alt="Public GitHub contribution streak" />
 </p>
+
+> **Why the numbers differ:** GitHub's profile contribution graph and third-party README cards use different data sources and rules. Private professional activity is intentionally represented here without exposing proprietary repository names or source code.
 
 ---
 
@@ -125,6 +138,8 @@ Because Webilia's source code is proprietary, the public GitHub portfolio cannot
 | Area | Evidence |
 |---|---|
 | Production engineering | **600+ PRs** in the Webilia/Listdom ecosystem |
+| Core product work | **400+ PRs** related to Listdom Core |
+| Add-on ecosystem | **200+ PRs** across add-ons / related work |
 | WordPress ecosystem | Core product work, themes, plugins, integrations and add-ons |
 | Component/product work | **Template Builder, Demo Importer, Settings Panel, Placora** |
 | Integrations | Payment systems, WooCommerce, external APIs, multi-backend applications |
