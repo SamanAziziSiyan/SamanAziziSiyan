@@ -1,42 +1,51 @@
 # Saman Azizi Siyan
 
-**Backend Developer | PHP Developer | WordPress Developer | DevOps**
+**Full Stack Engineer | PHP & WordPress | JavaScript/TypeScript | Laravel | Next.js**
 
-I build web systems with a strong backend focus — from PHP and WordPress applications to APIs, databases, performance/stability work, Linux environments, Docker, and deployment workflows.
+I build and maintain production web systems across backend, frontend, integrations, and infrastructure — with a strong focus on PHP/WordPress and modern full-stack JavaScript/TypeScript development.
 
-I also work across modern frontend stacks such as React and Next.js when a project requires full-stack ownership.
+My experience spans large existing products, custom WordPress/WooCommerce development, Laravel and API-driven systems, React/Next.js applications, integrations, databases, Docker/Linux environments, and technical problem solving.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🧩 Backend-focused developer with extensive **PHP / WordPress** experience
-- ⚙️ Experience building, extending, debugging, and maintaining production web systems
-- 🚀 Focused on **performance, stability, maintainability, and clean architecture**
-- 🐳 Comfortable with **Linux, Docker, Docker Compose, Nginx, Apache, and deployment environments**
-- 🔌 Experience with **REST APIs, databases, integrations, and third-party services**
-- 🎨 Full-stack capable with **JavaScript, TypeScript, React, and Next.js**
-- 🔍 Interested in understanding systems deeply rather than only working at the UI layer
+- 🧩 Full Stack Engineer with **10+ years of development experience** across professional, contract, freelance, and project-based work
+- 🐘 Strong experience with **PHP, WordPress, WooCommerce, Laravel, and Composer**
+- ⚛️ Full-stack development with **JavaScript, TypeScript, React, and Next.js**
+- 🔌 Experience with **REST APIs, third-party integrations, databases, and multi-backend applications**
+- 🛠️ Comfortable working inside large existing codebases as well as building systems and components from scratch
+- 🐳 Experience with **Docker, Linux, Nginx, Apache, and deployment environments**
+- 🧠 Focused on maintainability, debugging, architecture, code review, and practical engineering decisions
 
 ---
 
 ## 🏢 Professional Experience
 
-### Webilia — PHP / WordPress Development
+### Webilia — Full Stack Developer
+**Aug 2024 – Present**
 
-A significant part of my professional experience has been working on **Webilia and its Listdom ecosystem**, involving large-scale WordPress/PHP development and ongoing product maintenance.
+Working on the **Listdom commercial WordPress directory ecosystem** across core functionality and add-ons.
 
-Work included:
+My work includes:
 
-- 🧱 Development and maintenance of substantial PHP/WordPress functionality
-- 🔧 More than **80 features** implemented across the product
-- 🐛 Resolution of **100+ client-reported bugs/issues**
-- ⚡ Performance and stability-oriented engineering work
-- 🔄 Refactoring and improving existing production functionality
-- 🧩 Working with a large existing codebase rather than only greenfield projects
-- 🌐 Supporting a product used across different customer environments
+- 🔧 **600+ pull requests** across the Listdom ecosystem
+- 🧩 Approximately **400 PRs related to Listdom Core** and **200+ across add-ons/related work**
+- 🐘 PHP, WordPress, JavaScript, TypeScript, jQuery, MySQL, REST APIs, and Composer
+- 🏗️ Independently designed and implemented major components including:
+  - Template Builder
+  - Demo Importer Composer package
+  - Settings Panel Composer package
+  - Placora theme
+- 🔌 Built the **Divi 5 integration from scratch** using TypeScript, PHP, and WordPress, including documentation
+- 🧱 Worked on **30+ add-ons**, primarily improving existing architecture or implementing new functionality
+- 🎨 Collaborated directly with UI/UX design on backend/frontend redesigns
+- 🔍 Debugged production issues, reviewed code/PRs, made technical decisions, and coordinated technical requirements
+- 💳 Worked on payment functionality around an architecture designed by the engineering manager, implementing and improving the related UI and functionality
 
-Much of this production work cannot be represented publicly through source-code repositories, so the professional experience provides important context for the public portfolio.
+This experience represents large-scale production engineering within an existing commercial ecosystem. It should not be interpreted as ownership of the entire Listdom architecture or as building the platform from scratch.
+
+Because Webilia's source code is proprietary, the public GitHub portfolio cannot directly expose this work. The professional experience is therefore an important part of the evidence behind this profile.
 
 ---
 
@@ -45,105 +54,63 @@ Much of this production work cannot be represented publicly through source-code 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,redis,composer" />
 </p>
 
-**PHP · Laravel · WordPress · MySQL · MariaDB · REST APIs · MVC · OOP · SOLID · Clean Code**
+**PHP · WordPress · WooCommerce · Laravel · Composer · MySQL · MariaDB · REST APIs · MVC · OOP · SOLID**
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,jquery" />
 </p>
 
-**JavaScript · TypeScript · React · Next.js · Tailwind CSS · Bootstrap · jQuery**
+**JavaScript · TypeScript · React · Next.js · jQuery · Tailwind CSS · Bootstrap**
 
-### DevOps / Infrastructure
+### Infrastructure & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,apache,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,apache,git,githubactions" />
 </p>
 
-**Linux · Docker · Docker Compose · Nginx · Apache · LiteSpeed · Git · GitHub Actions**
+**Linux · Docker · Docker Compose · Kubernetes · Nginx · Apache · LiteSpeed · Git · GitHub Actions**
 
 ---
 
-## 🚀 Selected Public Work
+## 🧠 Engineering Focus
 
-### 💎 AMIRAMIR Jewelry — Custom WordPress Theme
-
-Custom WordPress theme featuring structured jewelry content, custom taxonomies, account interactions, wishlist functionality, appointment handling, theme settings, AJAX functionality, and frontend behavior.
-
-The repository is a **sanitized portfolio export** of historical client work rather than the complete production installation.
-
-→ [View repository](https://github.com/SamanAziziSiyan/amiramir-jewelry-theme)
-
-### 🏥 TEBSEO — Custom WordPress Theme
-
-Custom WordPress marketing theme with reusable PHP templates, Tailwind-based frontend development, contact-request handling, administrative request management, and a local Docker development environment.
-
-The public repository documents contribution history, security remediation, testing, configuration boundaries, and repository scope.
-
-→ [View repository](https://github.com/SamanAziziSiyan/tebseo)
-
-### 🏢 Panjere Studio Theme
-
-Custom WordPress theme for project and editorial content with project taxonomy, contact handling, responsive frontend code, and multilingual integration hooks.
-
-→ [View repository](https://github.com/SamanAziziSiyan/panjere-studio-theme)
-
-### 🏠 Amlak Arad
-
-React-based real-estate management frontend containing authentication screens, estate creation/search/edit/detail flows, personnel management, settings, logging, form validation, notifications, and API-oriented frontend infrastructure.
-
-→ [View repository](https://github.com/SamanAziziSiyan/amlakarad-panel)
-
-### 🎮 iGame / PWA Projects
-
-Additional frontend/PWA work covering modern React/Next.js application development, client-side state, authentication flows, forms, API integration, and PWA tooling.
-
-The individual repositories document their own verified implementation scope.
+- 🏗️ Full-stack web architecture
+- 🐘 PHP / WordPress / WooCommerce engineering
+- ⚡ Large-scale production codebases
+- 🔌 REST APIs and third-party integrations
+- 🧩 Plugin, theme, and platform development
+- ⚛️ React / Next.js / TypeScript applications
+- 🗄️ Database-driven systems
+- 🔐 Secure and maintainable application development
+- 🧹 Refactoring and improving existing architecture
+- 🐳 Docker / Linux / deployment environments
+- 👀 Code review and technical decision-making
+- 🤝 Technical collaboration and team leadership
 
 ---
 
-## 🧠 Engineering Interests
+## 📊 How I Approach Engineering
 
-- 🏗️ Backend architecture
-- 🐘 PHP / WordPress engineering
-- 🔌 API and third-party integrations
-- 🗄️ Database-driven applications
-- ⚡ Performance and stability
-- 🔐 Secure application development
-- 🧹 Refactoring legacy/existing codebases
-- 🐳 Dockerized development environments
-- 🚀 Deployment and infrastructure
-- 🔗 Full-stack system integration
+I care about understanding the system, not just implementing isolated features.
+
+**Architecture → Data flow → Business logic → Integration boundaries → Failure cases → Performance → Security → Maintainability → Deployment**
+
+I am comfortable moving between backend, frontend, database, integration, and infrastructure concerns when a problem requires a full-system view.
 
 ---
 
-## 📊 How I Approach Projects
+## 📚 About This GitHub
 
-I care about more than making a feature work.
+This profile is intentionally focused on **engineering experience and technical breadth**, while individual repositories provide the deeper implementation evidence.
 
-I try to understand:
+Some professional work — especially proprietary company products such as Webilia/Listdom — cannot be published publicly. Other repositories represent historical client work, freelance projects, experiments, or sanitized portfolio exports.
 
-**Architecture → Data flow → Business logic → Failure cases → Performance → Security → Maintainability → Deployment**
-
-For public portfolio repositories, I also document what is actually represented in the repository and what is not. Historical client work is separated from production credentials, private data, and assets that cannot legitimately be redistributed.
-
----
-
-## 📚 Portfolio Philosophy
-
-This GitHub account contains a mixture of:
-
-- 💼 Professional experience that can only be partially represented publicly
-- 🧪 Personal and experimental projects
-- 🏗️ Historical client/project source
-- 🔬 Technical experiments and smaller engineering projects
-- 📦 Sanitized public portfolio exports
-
-Not every repository is intended to represent a production-ready product. The goal is to make useful engineering evidence easy to inspect while keeping attribution and project scope accurate.
+The goal is to keep the public portfolio accurate about **what was built, what was contributed, and what can legitimately be shared**.
 
 ---
 
