@@ -10,6 +10,18 @@ I build production web systems across **backend, frontend, WordPress/WooCommerce
 
 ---
 
+## 🧭 Engineering Topics
+
+**Backend** · PHP · Laravel · WordPress · WooCommerce · REST APIs · MySQL · Redis · OOP · MVC
+
+**Frontend** · JavaScript · TypeScript · React · Next.js · jQuery · Tailwind CSS · PWA
+
+**Architecture & Engineering** · APIs · Integrations · Authentication · Refactoring · Code Review · Security · Testing
+
+**Infrastructure** · Linux · Docker · Docker Compose · Kubernetes · Nginx · Apache · LiteSpeed · GitHub Actions
+
+---
+
 ## 👋 What I Do
 
 - **Backend:** PHP, Laravel, WordPress, WooCommerce, REST APIs, MySQL
