@@ -49,8 +49,6 @@ My experience spans large existing products, custom WordPress/WooCommerce develo
 
 ### GitHub Activity
 
-The cards below are generated as static SVGs by GitHub Actions using the authenticated `GH_STATS_TOKEN` secret. This avoids the public stats endpoint and allows the workflow to use authenticated GitHub data.
-
 <p align="center">
   <img src="./profile/stats.svg" height="165" alt="GitHub statistics" />
   <img src="./profile/top-langs.svg" height="165" alt="GitHub language statistics" />
