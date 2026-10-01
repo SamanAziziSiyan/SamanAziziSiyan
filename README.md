@@ -35,9 +35,7 @@ I work both on **large existing codebases** and on **new systems/components from
 
 ## ⭐ Selected Work
 
-### Live product references
-
-These links give a reviewer the fastest way to see the product-facing side of the work:
+### Live Product References
 
 | Reference | What to inspect |
 |---|---|
@@ -45,15 +43,6 @@ These links give a reviewer the fastest way to see the product-facing side of th
 | [Serione](https://serione.ir) | WordPress theme / live site |
 | [Webilia](https://webilia.com) | Webilia product/company context |
 | [Listdom](https://listdom.net) | Commercial WordPress directory product |
-
-| Project | Technology / evidence |
-|---|---|
-| [ClickChin Backend](https://github.com/SamanAziziSiyan/clickchin-landing-backend) | Laravel API · Eloquent · authentication |
-| [ClickChin Frontend](https://github.com/SamanAziziSiyan/clickchin-landing-frontend) | Next.js · React · Zustand · Axios |
-| [AMIRAMIR Jewelry Theme](https://github.com/SamanAziziSiyan/amiramir-jewelry-theme) | WordPress · custom content · AJAX · security |
-| [TEBSEO](https://github.com/SamanAziziSiyan/tebseo) | WordPress · Tailwind · Docker · security tests |
-| [Anar360 Integration](https://github.com/SamanAziziSiyan/anar360-woocommerce-integration) | WooCommerce · catalogue integration · admin AJAX |
-| [IranCP PWA](https://github.com/SamanAziziSiyan/IGame-PWA) | Next.js 14 · TypeScript · PWA · service worker |
 
 **→ [Full portfolio evidence index](./PORTFOLIO.md)**
 
