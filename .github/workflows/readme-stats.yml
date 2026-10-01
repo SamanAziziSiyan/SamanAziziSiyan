@@ -32,24 +32,25 @@ jobs:
 
           gh api rate_limit --jq '"GitHub API core rate limit: " + (.resources.core.remaining|tostring) + "/" + (.resources.core.limit|tostring) + " remaining"'
 
+          PRIVATE_REPOS="$(gh api 'user/repos?visibility=private&affiliation=owner,collaborator,organization_member&per_page=100' --paginate --jq '.[].full_name' | sed '/^$/d' | wc -l | tr -d ' ')"
+          echo "Private repositories visible to token: $PRIVATE_REPOS"
+
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2.1.0
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
-          core_version: 2.1.3
           fail_on_error: true
 
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2.1.0
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=transparent
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
-          core_version: 2.1.3
           fail_on_error: true
 
       - name: Validate generated cards
