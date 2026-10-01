@@ -18,10 +18,19 @@ jobs:
         env:
           GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: |
+          set -euo pipefail
+
           test -n "$GH_STATS_TOKEN"
           echo "GH_STATS_TOKEN is present"
-          curl -fsS             -H "Authorization: Bearer $GH_STATS_TOKEN"             -H "Accept: application/vnd.github+json"             https://api.github.com/user             | python -c 'import json,sys; print("Authenticated as:", json.load(sys.stdin)["login"])'
-          curl -fsS             -H "Authorization: Bearer $GH_STATS_TOKEN"             -H "Accept: application/vnd.github+json"             https://api.github.com/rate_limit             | python -c 'import json,sys; r=json.load(sys.stdin)["resources"]["core"]; print(f"GitHub API core rate limit: {r["remaining"]}/{r["limit"]} remaining")'
+
+          USER_RESPONSE="$(curl -fsS             -H "Authorization: Bearer $GH_STATS_TOKEN"             -H "Accept: application/vnd.github+json"             https://api.github.com/user)"
+
+          USER_LOGIN="$(python -c 'import json,sys; print(json.loads(sys.argv[1])["login"])' "$USER_RESPONSE")"
+          echo "Authenticated as: $USER_LOGIN"
+
+          RATE_RESPONSE="$(curl -fsS             -H "Authorization: Bearer $GH_STATS_TOKEN"             -H "Accept: application/vnd.github+json"             https://api.github.com/rate_limit)"
+
+          python -c 'import json,sys; r=json.loads(sys.argv[1])["resources"]["core"]; print(f"GitHub API core rate limit: {r["remaining"]}/{r["limit"]} remaining")' "$RATE_RESPONSE"
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2.1.0
@@ -45,6 +54,7 @@ jobs:
 
       - name: Validate generated cards
         run: |
+          set -euo pipefail
           test -s profile/stats.svg
           test -s profile/top-langs.svg
           ! grep -qiE "Something went wrong|rate limiting|MAX_RETRY|Card generation failed" profile/stats.svg
