@@ -1,77 +1,85 @@
-## Hey there
-![](https://komarev.com/ghpvc/?username=moeidheidari)
+# Saman Azizi Siyan
 
-As a Back End Developer with more than 8 years of experience in creating webApplications and analyzing projects and databases. Have worked in agile environments with teammates from 5 to 15 people.Have optimized and refactored code base from scratch to increase 65 performance boost in radiscar project. 
+**Backend Developer · PHP · WordPress · DevOps**
 
-### Back-End Skills:
+I build and maintain web systems with a backend-first focus on PHP, WordPress, Laravel, APIs, databases, Linux, and containerized development. I also work across React/Next.js frontends when a project requires full-stack ownership.
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
-<!-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  -->
+My GitHub is organized around **real project evidence**: source code, architecture, contribution history, security review, and reproducible local setup where those artifacts are available.
 
-### DevOps Skills:
+## What I work with
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Docker Compose](https://img.shields.io/badge/docker_compose-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![K3s](https://img.shields.io/badge/k3s-%233292E6.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-<!-- ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  -->
+### Backend
+- PHP
+- Laravel
+- WordPress
+- REST APIs
+- MVC / OOP / SOLID / Clean Code
+- MySQL / MariaDB / Redis
 
-### Databases:
+### Frontend
+- JavaScript / TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- Bootstrap
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### Infrastructure & Development
+- Linux
+- Docker / Docker Compose
+- Apache / Nginx / LiteSpeed
+- Git / GitHub
+- CI/CD and deployment workflows
 
+## Selected work
 
-### Front-End Skills:
+### AMIRAMIR Jewelry — Custom WordPress Theme
+A custom WordPress theme with a structured jewelry content model, taxonomies, account interactions, wishlist functionality, appointment handling, configurable theme settings, and frontend behavior.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+The public repository is a **sanitized portfolio export**, not the original customer installation. Its README documents contribution history, security changes, third-party notices, local Docker setup, testing, and known limitations.
 
-### WebServers
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+→ [amiramir-jewelry-theme](https://github.com/SamanAziziSiyan/amiramir-jewelry-theme)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saman-Azizi-siyan) 
+### TEBSEO — Custom WordPress Theme
+A WordPress marketing theme with reusable PHP templates, Tailwind-based styling, a contact-request workflow, administrative request management, and a reproducible local Docker environment.
 
-<!-- # 💻 Tech Stack: -->
+The public repository separates portfolio source from the historical production environment and documents security remediation, testing, configuration boundaries, and repository scope.
 
+→ [tebseo](https://github.com/SamanAziziSiyan/tebseo)
 
-<!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
- -->
-# 📊 GitHub Stats:
+### Panjere Studio Theme
+A custom WordPress theme for project/editorial content with project taxonomy, contact handling, responsive frontend code, and multilingual integration hooks.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SamanAzizisiyan&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=SamanAzizisiyan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAzizisiyan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- <p float="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sammygambler&theme=tokyonight&hide_border=true" width="420">
-  <img src="https://github-readme-stats.vercel.app/api?username=sammygambler&show_icons=true&theme=tokyonight&hide_border=true" width="420">
-</p> -->
+→ [panjere-studio-theme](https://github.com/SamanAziziSiyan/panjere-studio-theme)
 
-<!-- ### IDEs:
+## Engineering focus
 
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-000?&logo=PHPStorm&logoColor=007ACC) -->
+- Backend architecture and maintainable PHP systems
+- WordPress theme/plugin development
+- API and database-driven applications
+- Performance-oriented refactoring
+- Local development environments with Docker
+- Security-conscious public code publication
+- Full-stack integration when backend and frontend systems meet
 
+## How I document projects
+
+For portfolio repositories, I prefer documentation that answers:
+
+1. **What is this?**
+2. **What did I actually contribute?**
+3. **How is it structured?**
+4. **How can it be run locally?**
+5. **What has been tested?**
+6. **What security or licensing boundaries exist?**
+7. **What is intentionally not included?**
+
+This is especially important for historical client work, where public source code may not represent the complete production system.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/saman-azizi-siyan/)
+- [GitHub](https://github.com/SamanAziziSiyan)
+
+---
+
+*This profile is intentionally concise. Individual repositories contain the deeper technical evidence, contribution context, setup instructions, testing notes, and limitations.*
