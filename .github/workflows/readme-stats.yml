@@ -16,21 +16,17 @@ jobs:
 
       - name: Verify GitHub token
         env:
-          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: |
           set -euo pipefail
 
-          test -n "$GH_STATS_TOKEN"
+          test -n "$GH_TOKEN"
           echo "GH_STATS_TOKEN is present"
 
-          USER_RESPONSE="$(curl -fsS             -H "Authorization: Bearer $GH_STATS_TOKEN"             -H "Accept: application/vnd.github+json"             https://api.github.com/user)"
-
-          USER_LOGIN="$(python -c 'import json,sys; print(json.loads(sys.argv[1])["login"])' "$USER_RESPONSE")"
+          USER_LOGIN="$(gh api user --jq '.login')"
           echo "Authenticated as: $USER_LOGIN"
 
-          RATE_RESPONSE="$(curl -fsS             -H "Authorization: Bearer $GH_STATS_TOKEN"             -H "Accept: application/vnd.github+json"             https://api.github.com/rate_limit)"
-
-          python -c 'import json,sys; r=json.loads(sys.argv[1])["resources"]["core"]; print(f"GitHub API core rate limit: {r["remaining"]}/{r["limit"]} remaining")' "$RATE_RESPONSE"
+          gh api rate_limit --jq '"GitHub API core rate limit: " + (.resources.core.remaining|tostring) + "/" + (.resources.core.limit|tostring) + " remaining"'
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2.1.0
