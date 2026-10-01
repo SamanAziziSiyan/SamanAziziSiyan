@@ -1,79 +1,89 @@
 # Saman Azizi Siyan
 
-**Full Stack Engineer | PHP & WordPress | JavaScript/TypeScript | Laravel | Next.js**
+**Full Stack Engineer · PHP / WordPress · Laravel · JavaScript / TypeScript · React / Next.js**
 
-I build and maintain production web systems across backend, frontend, integrations, and infrastructure — with a strong focus on PHP/WordPress and modern full-stack JavaScript/TypeScript development.
+I build production web systems across **backend, frontend, WordPress/WooCommerce, APIs, integrations, databases, and infrastructure**.
 
-My experience spans large existing products, custom WordPress/WooCommerce development, Laravel and API-driven systems, React/Next.js applications, integrations, databases, Docker/Linux environments, and technical problem solving.
+**10+ years developing · 600+ professional PRs in the Webilia/Listdom ecosystem · production + open-source evidence**
 
----
-
-## 👨‍💻 About Me
-
-- Full Stack Engineer with **10+ years of development experience** across professional, contract, freelance, and project-based work
-- Strong experience with **PHP, WordPress, WooCommerce, Laravel, and Composer**
-- Full-stack development with **JavaScript, TypeScript, React, and Next.js**
-- Experience with **REST APIs, third-party integrations, databases, and multi-backend applications**
-- Comfortable working inside large existing codebases as well as building systems and components from scratch
-- Experience with **Docker, Linux, Nginx, Apache, and deployment environments**
-- Focused on maintainability, debugging, architecture, code review, and practical engineering decisions
+[LinkedIn](https://www.linkedin.com/in/saman-azizi-siyan/) · [Portfolio](./docs/index.html) · [GitHub](https://github.com/SamanAziziSiyan)
 
 ---
 
-## 📊 Engineering Snapshot
+## 👋 What I Do
 
-<table>
-<tr>
-<td align="center" width="25%">
-<strong>10+</strong><br/>
-<sub>Years developing</sub>
-</td>
-<td align="center" width="25%">
-<strong>5</strong><br/>
-<sub>Core engineering domains</sub>
-</td>
-<td align="center" width="25%">
-<strong>30+</strong><br/>
-<sub>Add-ons & integrations</sub>
-</td>
-<td align="center" width="25%">
-<strong>4</strong><br/>
-<sub>Major components built</sub>
-</td>
-</tr>
-</table>
+- **Backend:** PHP, Laravel, WordPress, WooCommerce, REST APIs, MySQL
+- **Frontend:** JavaScript, TypeScript, React, Next.js, jQuery
+- **Engineering:** architecture, refactoring, debugging, integrations, code review
+- **Infrastructure:** Linux, Docker, Nginx, Apache, LiteSpeed, GitHub Actions
 
-<p align="center">
-<sub>Public + private portfolio evidence · Backend · Frontend · APIs · WordPress · Databases · Infrastructure</sub>
+I work both on **large existing codebases** and on **new systems/components from scratch**, with an emphasis on maintainability and practical engineering.
+
+---
+
+## ⭐ Selected Work
+
+### Live product references
+
+These links give a reviewer the fastest way to see the product-facing side of the work:
+
+| Reference | What to inspect |
+|---|---|
+| [Blogina Demo](https://blogina-demo.ir) | WordPress theme / live product surface |
+| [Serione](https://serione.ir) | WordPress theme / live site |
+| [Webilia](https://webilia.com) | Webilia product/company context |
+| [Listdom](https://listdom.net) | Commercial WordPress directory product |
+
+### Public engineering evidence
+
+| Project | Technology / evidence |
+|---|---|
+| [ClickChin Backend](https://github.com/SamanAziziSiyan/clickchin-landing-backend) | Laravel API · Eloquent · authentication |
+| [ClickChin Frontend](https://github.com/SamanAziziSiyan/clickchin-landing-frontend) | Next.js · React · Zustand · Axios |
+| [AMIRAMIR Jewelry Theme](https://github.com/SamanAziziSiyan/amiramir-jewelry-theme) | WordPress · custom content · AJAX · security |
+| [TEBSEO](https://github.com/SamanAziziSiyan/tebseo) | WordPress · Tailwind · Docker · security tests |
+| [Anar360 Integration](https://github.com/SamanAziziSiyan/anar360-woocommerce-integration) | WooCommerce · catalogue integration · admin AJAX |
+| [IranCP PWA](https://github.com/SamanAziziSiyan/IGame-PWA) | Next.js 14 · TypeScript · PWA · service worker |
+
+**→ [Full portfolio evidence index](./PORTFOLIO.md)**
+
+---
+
+## 🏢 Professional Experience
+
+### Webilia — Full Stack Developer
+**Aug 2024 – Present**
+
+Working across the **Listdom commercial WordPress directory ecosystem**.
+
+**Selected evidence:**
+- **600+ pull requests** across the Listdom ecosystem
+- Approximately **400 PRs** related to Listdom Core
+- **200+ PRs** across add-ons and related work
+- **30+ add-ons** worked on
+- Independently built major components including:
+  - Template Builder
+  - Demo Importer Composer package
+  - Settings Panel Composer package
+  - Placora theme
+- Built the **Divi 5 integration** using TypeScript, PHP and WordPress
+- Production debugging, code review, architecture work, technical decisions and cross-functional collaboration
+
+The Webilia/Listdom source is proprietary, so the public GitHub portfolio does **not** present it as open-source work. The live product links above provide product context; professional experience provides the contribution record.
+
+---
+
+## 🧰 Core Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,redis,js,ts,react,nextjs,tailwind,jquery,linux,docker,kubernetes,nginx,apache,litespeed,git,githubactions,bash" />
 </p>
 
-## ⭐ Featured Engineering Evidence
-
-### Live theme / product demos
-
-- [Blogina Demo](https://blogina-demo.ir) — live WordPress theme/demo site. The public site currently exposes course, blog, shop, account and custom-widget flows and identifies Saman Azizi on published content. citeturn0view0
-- [Serione](https://serione.ir) — live theme/site reference.
-- [Webilia](https://webilia.com) — company/product reference for the Webilia ecosystem.
-- [Listdom](https://listdom.net) — live product reference for Listdom, Webilia's WordPress directory platform. citeturn0view3
-
-These live references are shown above the source-evidence list so reviewers can inspect the public product surface first.
-
-These repositories are the public source evidence layer for different parts of my engineering work:
-
-| Project | Evidence |
-|---|---|
-| [ClickChin Landing Backend](https://github.com/SamanAziziSiyan/clickchin-landing-backend) | Laravel API, Eloquent, authentication, landing/component persistence |
-| [ClickChin Landing Frontend](https://github.com/SamanAziziSiyan/clickchin-landing-frontend) | Next.js editor, React, Zustand, Axios, component preview |
-| [AMIRAMIR Jewelry Theme](https://github.com/SamanAziziSiyan/amiramir-jewelry-theme) | WordPress architecture, custom content model, AJAX workflows, security hardening |
-| [TEBSEO Theme](https://github.com/SamanAziziSiyan/tebseo) | WordPress theme engineering, Tailwind build, local Docker environment, security tests |
-| [Anar360 WooCommerce Integration](https://github.com/SamanAziziSiyan/anar360-woocommerce-integration) | WooCommerce integration, catalogue mapping, admin AJAX boundaries |
-| [IranCP PWA](https://github.com/SamanAziziSiyan/IGame-PWA) | Next.js 14, TypeScript, PWA/service-worker configuration, API-driven frontend |
-
-[Portfolio website](./docs/index.html) · [Full portfolio evidence index](./PORTFOLIO.md)
+**PHP · WordPress · WooCommerce · Laravel · Composer · MySQL · MariaDB · Redis · JavaScript · TypeScript · React · Next.js · jQuery · Tailwind CSS · Linux · Docker · Kubernetes · Nginx · Apache · LiteSpeed · Git · GitHub Actions · Bash**
 
 ---
 
-### GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="./profile/stats.svg" height="165" alt="GitHub statistics" />
@@ -82,113 +92,27 @@ These repositories are the public source evidence layer for different parts of m
 
 ---
 
-## 🏢 Professional Experience
+## 🔍 How to Read This Profile
 
-### <img src="https://webilia.com/wp-content/uploads/2023/09/Webilia-2.png" width="34" height="34" alt="Webilia" /> Webilia — Full Stack Developer
-**Aug 2024 – Present**
+This profile separates **three kinds of evidence**:
 
-Working on the **Listdom commercial WordPress directory ecosystem** across core functionality and add-ons.
+**1. Live products** — public sites where the product surface can be inspected.
 
-My work includes:
+**2. Public source** — repositories where implementation can be audited directly.
 
-- **600+ pull requests** across the Listdom ecosystem
-- Approximately **400 PRs related to Listdom Core** and **200+ across add-ons/related work**
-- PHP, WordPress, JavaScript, TypeScript, jQuery, MySQL, REST APIs, and Composer
-- Independently designed and implemented major components including:
-  - Template Builder
-  - Demo Importer Composer package
-  - Settings Panel Composer package
-  - Placora theme
-- Built the **Divi 5 integration from scratch** using TypeScript, PHP, and WordPress, including documentation
-- Worked on **30+ add-ons**, primarily improving existing architecture or implementing new functionality
-- Collaborated directly with UI/UX design on backend/frontend redesigns
-- Debugged production issues, reviewed code/PRs, made technical decisions, and coordinated technical requirements
-- Worked on payment functionality around an architecture designed by the engineering manager, implementing and improving the related UI and functionality
+**3. Professional work** — proprietary work that cannot legitimately be published as source code.
 
-This experience represents large-scale production engineering within an existing commercial ecosystem. It should not be interpreted as ownership of the entire Listdom architecture or as building the platform from scratch.
-
-Because Webilia's source code is proprietary, the public GitHub portfolio cannot directly expose this work. The professional experience is therefore an important part of the evidence behind this profile.
+Historical, client, duplicate, or sanitized repositories are labeled accordingly rather than being presented as separate production products.
 
 ---
 
-## 🛠️ Technology Stack
+## 📚 More
 
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,redis" />
-</p>
-
-**PHP · WordPress · WooCommerce · Laravel · Composer · MySQL · MariaDB · REST APIs · MVC · OOP · SOLID**
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,jquery" />
-</p>
-
-**JavaScript · TypeScript · React · Next.js · jQuery · Tailwind CSS · Bootstrap**
-
-### Infrastructure & Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,apache,litespeed,git,githubactions,bash" />
-</p>
-
-**Linux · Docker · Docker Compose · Kubernetes · Nginx · Apache · LiteSpeed · Git · GitHub Actions · Bash**
-
----
-
-## 🧠 Engineering Focus
-
-
-- Full-stack web architecture
-- PHP / WordPress / WooCommerce engineering
-- Large-scale production codebases
-- REST APIs and third-party integrations
-- Plugin, theme, and platform development
-- React / Next.js / TypeScript applications
-- Database-driven systems
-- Secure and maintainable application development
-- Refactoring and improving existing architecture
-- Docker / Linux / deployment environments
-- Code review and technical decision-making
-- Technical collaboration and team leadership
-
----
-
-## 📈 Delivery Profile
-
-| Area | Evidence |
-|---|---|
-| Production engineering | **600+ PRs** in the Webilia/Listdom ecosystem |
-| Core product work | **400+ PRs** related to Listdom Core |
-| Add-on ecosystem | **200+ PRs** across add-ons / related work |
-| WordPress ecosystem | Core product work, themes, plugins, integrations and add-ons |
-| Component/product work | **Template Builder, Demo Importer, Settings Panel, Placora** |
-| Integrations | Payment systems, WooCommerce, external APIs, multi-backend applications |
-| Frontend | React, Next.js, TypeScript, PWA development |
-| Backend | PHP, Laravel, WordPress, REST APIs, MySQL |
-| Infrastructure | Linux, Docker, deployment environments, Kubernetes-related work |
-| Technical leadership | Code review, architecture discussions, debugging, coordination and team leadership |
-
----
-
-## 📚 About This GitHub
-
-This profile is intentionally focused on **engineering experience and technical breadth**, while individual repositories provide the deeper implementation evidence.
-
-Some professional work — especially proprietary company products such as Webilia/Listdom — cannot be published publicly. Other repositories represent historical client work, freelance projects, experiments, or sanitized portfolio exports.
-
-The goal is to keep the public portfolio accurate about **what was built, what was contributed, and what can legitimately be shared**.
-
----
-
-## 🔗 Connect
-
+- [Portfolio website](./docs/index.html)
+- [Portfolio evidence index](./PORTFOLIO.md)
 - [LinkedIn](https://www.linkedin.com/in/saman-azizi-siyan/)
-- [GitHub](https://github.com/SamanAziziSiyan)
+- [GitHub repositories](https://github.com/SamanAziziSiyan?tab=repositories)
 
 ---
 
-### ⚡ Building systems, not just interfaces.
+*Building systems, not just interfaces.*
