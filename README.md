@@ -10,13 +10,13 @@ My experience spans large existing products, custom WordPress/WooCommerce develo
 
 ## 👨‍💻 About Me
 
-- 🧩 Full Stack Engineer with **10+ years of development experience** across professional, contract, freelance, and project-based work
-- 🐘 Strong experience with **PHP, WordPress, WooCommerce, Laravel, and Composer**
-- ⚛️ Full-stack development with **JavaScript, TypeScript, React, and Next.js**
-- 🔌 Experience with **REST APIs, third-party integrations, databases, and multi-backend applications**
-- 🛠️ Comfortable working inside large existing codebases as well as building systems and components from scratch
-- 🐳 Experience with **Docker, Linux, Nginx, Apache, and deployment environments**
-- 🧠 Focused on maintainability, debugging, architecture, code review, and practical engineering decisions
+- Full Stack Engineer with **10+ years of development experience** across professional, contract, freelance, and project-based work
+- Strong experience with **PHP, WordPress, WooCommerce, Laravel, and Composer**
+- Full-stack development with **JavaScript, TypeScript, React, and Next.js**
+- Experience with **REST APIs, third-party integrations, databases, and multi-backend applications**
+- Comfortable working inside large existing codebases as well as building systems and components from scratch
+- Experience with **Docker, Linux, Nginx, Apache, and deployment environments**
+- Focused on maintainability, debugging, architecture, code review, and practical engineering decisions
 
 ---
 
@@ -29,19 +29,19 @@ Working on the **Listdom commercial WordPress directory ecosystem** across core 
 
 My work includes:
 
-- 🔧 **600+ pull requests** across the Listdom ecosystem
-- 🧩 Approximately **400 PRs related to Listdom Core** and **200+ across add-ons/related work**
-- 🐘 PHP, WordPress, JavaScript, TypeScript, jQuery, MySQL, REST APIs, and Composer
-- 🏗️ Independently designed and implemented major components including:
+- **600+ pull requests** across the Listdom ecosystem
+- Approximately **400 PRs related to Listdom Core** and **200+ across add-ons/related work**
+- PHP, WordPress, JavaScript, TypeScript, jQuery, MySQL, REST APIs, and Composer
+- Independently designed and implemented major components including:
   - Template Builder
   - Demo Importer Composer package
   - Settings Panel Composer package
   - Placora theme
-- 🔌 Built the **Divi 5 integration from scratch** using TypeScript, PHP, and WordPress, including documentation
-- 🧱 Worked on **30+ add-ons**, primarily improving existing architecture or implementing new functionality
-- 🎨 Collaborated directly with UI/UX design on backend/frontend redesigns
-- 🔍 Debugged production issues, reviewed code/PRs, made technical decisions, and coordinated technical requirements
-- 💳 Worked on payment functionality around an architecture designed by the engineering manager, implementing and improving the related UI and functionality
+- Built the **Divi 5 integration from scratch** using TypeScript, PHP, and WordPress, including documentation
+- Worked on **30+ add-ons**, primarily improving existing architecture or implementing new functionality
+- Collaborated directly with UI/UX design on backend/frontend redesigns
+- Debugged production issues, reviewed code/PRs, made technical decisions, and coordinated technical requirements
+- Worked on payment functionality around an architecture designed by the engineering manager, implementing and improving the related UI and functionality
 
 This experience represents large-scale production engineering within an existing commercial ecosystem. It should not be interpreted as ownership of the entire Listdom architecture or as building the platform from scratch.
 
@@ -54,7 +54,7 @@ Because Webilia's source code is proprietary, the public GitHub portfolio cannot
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,redis,composer" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,redis" />
 </p>
 
 **PHP · WordPress · WooCommerce · Laravel · Composer · MySQL · MariaDB · REST APIs · MVC · OOP · SOLID**
@@ -79,18 +79,18 @@ Because Webilia's source code is proprietary, the public GitHub portfolio cannot
 
 ## 🧠 Engineering Focus
 
-- 🏗️ Full-stack web architecture
-- 🐘 PHP / WordPress / WooCommerce engineering
-- ⚡ Large-scale production codebases
-- 🔌 REST APIs and third-party integrations
-- 🧩 Plugin, theme, and platform development
-- ⚛️ React / Next.js / TypeScript applications
-- 🗄️ Database-driven systems
-- 🔐 Secure and maintainable application development
-- 🧹 Refactoring and improving existing architecture
-- 🐳 Docker / Linux / deployment environments
-- 👀 Code review and technical decision-making
-- 🤝 Technical collaboration and team leadership
+- Full-stack web architecture
+- PHP / WordPress / WooCommerce engineering
+- Large-scale production codebases
+- REST APIs and third-party integrations
+- Plugin, theme, and platform development
+- React / Next.js / TypeScript applications
+- Database-driven systems
+- Secure and maintainable application development
+- Refactoring and improving existing architecture
+- Docker / Linux / deployment environments
+- Code review and technical decision-making
+- Technical collaboration and team leadership
 
 ---
 
@@ -116,8 +116,8 @@ The goal is to keep the public portfolio accurate about **what was built, what w
 
 ## 🔗 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/saman-azizi-siyan/)
-- 🐙 [GitHub](https://github.com/SamanAziziSiyan)
+- [LinkedIn](https://www.linkedin.com/in/saman-azizi-siyan/)
+- [GitHub](https://github.com/SamanAziziSiyan)
 
 ---
 
