@@ -60,7 +60,7 @@ These repositories are the public evidence layer for different parts of my engin
 | [Anar360 WooCommerce Integration](https://github.com/SamanAziziSiyan/anar360-woocommerce-integration) | WooCommerce integration, catalogue mapping, admin AJAX boundaries |
 | [IranCP PWA](https://github.com/SamanAziziSiyan/IGame-PWA) | Next.js 14, TypeScript, PWA/service-worker configuration, API-driven frontend |
 
-[Full portfolio evidence index](./PORTFOLIO.md)
+[Portfolio website](./docs/index.html) · [Full portfolio evidence index](./PORTFOLIO.md)
 
 ---
 
