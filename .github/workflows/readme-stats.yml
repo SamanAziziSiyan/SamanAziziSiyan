@@ -23,6 +23,10 @@ jobs:
           test -n "$GH_TOKEN"
           echo "GH_STATS_TOKEN is present"
 
+          GH_TOKEN="$(printf '%s' "$GH_TOKEN" | tr -d '\r\n')"
+          test -n "$GH_TOKEN"
+          export GH_TOKEN
+
           USER_LOGIN="$(gh api user --jq '.login')"
           echo "Authenticated as: $USER_LOGIN"
 
