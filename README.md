@@ -75,37 +75,6 @@ Because Webilia's source code is proprietary, the public GitHub portfolio cannot
 
 ---
 
-## 🧭 Engineering Footprint
-
-```mermaid
-flowchart LR
-    A[Full Stack Engineering] --> B[PHP Ecosystem]
-    A --> C[Modern Frontend]
-    A --> D[APIs & Integrations]
-    A --> E[Infrastructure]
-
-    B --> B1[WordPress]
-    B --> B2[WooCommerce]
-    B --> B3[Laravel]
-    B --> B4[MySQL]
-
-    C --> C1[JavaScript]
-    C --> C2[TypeScript]
-    C --> C3[React]
-    C --> C4[Next.js]
-
-    D --> D1[REST APIs]
-    D --> D2[Third-party Services]
-    D --> D3[Multi-backend Systems]
-
-    E --> E1[Linux]
-    E --> E2[Docker]
-    E --> E3[Kubernetes]
-    E --> E4[GitHub Actions]
-```
-
----
-
 ## 🛠️ Technology Stack
 
 ### Backend
