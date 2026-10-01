@@ -47,6 +47,23 @@ My experience spans large existing products, custom WordPress/WooCommerce develo
 <sub>Public + private portfolio evidence · Backend · Frontend · APIs · WordPress · Databases · Infrastructure</sub>
 </p>
 
+## ⭐ Featured Engineering Evidence
+
+These repositories are the public evidence layer for different parts of my engineering work:
+
+| Project | Evidence |
+|---|---|
+| [ClickChin Landing Backend](https://github.com/SamanAziziSiyan/clickchin-landing-backend) | Laravel API, Eloquent, authentication, landing/component persistence |
+| [ClickChin Landing Frontend](https://github.com/SamanAziziSiyan/clickchin-landing-frontend) | Next.js editor, React, Zustand, Axios, component preview |
+| [AMIRAMIR Jewelry Theme](https://github.com/SamanAziziSiyan/amiramir-jewelry-theme) | WordPress architecture, custom content model, AJAX workflows, security hardening |
+| [TEBSEO Theme](https://github.com/SamanAziziSiyan/tebseo) | WordPress theme engineering, Tailwind build, local Docker environment, security tests |
+| [Anar360 WooCommerce Integration](https://github.com/SamanAziziSiyan/anar360-woocommerce-integration) | WooCommerce integration, catalogue mapping, admin AJAX boundaries |
+| [IranCP PWA](https://github.com/SamanAziziSiyan/IGame-PWA) | Next.js 14, TypeScript, PWA/service-worker configuration, API-driven frontend |
+
+[Full portfolio evidence index](./PORTFOLIO.md)
+
+---
+
 ### GitHub Activity
 
 <p align="center">
