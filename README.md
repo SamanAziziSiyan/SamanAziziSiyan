@@ -49,7 +49,16 @@ My experience spans large existing products, custom WordPress/WooCommerce develo
 
 ## ⭐ Featured Engineering Evidence
 
-These repositories are the public evidence layer for different parts of my engineering work:
+### Live theme / product demos
+
+- [Blogina Demo](https://blogina-demo.ir) — live WordPress theme/demo site. The public site currently exposes course, blog, shop, account and custom-widget flows and identifies Saman Azizi on published content. citeturn0view0
+- [Serione](https://serione.ir) — live theme/site reference.
+- [Webilia](https://webilia.com) — company/product reference for the Webilia ecosystem.
+- [Listdom](https://listdom.net) — live product reference for Listdom, Webilia's WordPress directory platform. citeturn0view3
+
+These live references are shown above the source-evidence list so reviewers can inspect the public product surface first.
+
+These repositories are the public source evidence layer for different parts of my engineering work:
 
 | Project | Evidence |
 |---|---|
