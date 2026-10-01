@@ -2,6 +2,17 @@
 
 This index maps public repositories to the engineering areas they demonstrate. It intentionally distinguishes repository evidence from proprietary work and avoids claiming ownership beyond what the public history supports.
 
+## Live product references
+
+These public sites provide the product-facing context for selected theme and professional work:
+
+- [Blogina Demo](https://blogina-demo.ir)
+- [Serione](https://serione.ir)
+- [Webilia](https://webilia.com)
+- [Listdom](https://listdom.net)
+
+They are external live references, not source-code ownership claims. The repository evidence below remains the auditable source layer.
+
 ## Primary evidence
 
 - **ClickChin Landing Backend** — Laravel API, Eloquent models, authentication, landing/component persistence.
