@@ -46,8 +46,6 @@ These links give a reviewer the fastest way to see the product-facing side of th
 | [Webilia](https://webilia.com) | Webilia product/company context |
 | [Listdom](https://listdom.net) | Commercial WordPress directory product |
 
-### Public engineering evidence
-
 | Project | Technology / evidence |
 |---|---|
 | [ClickChin Backend](https://github.com/SamanAziziSiyan/clickchin-landing-backend) | Laravel API · Eloquent · authentication |
