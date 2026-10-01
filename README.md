@@ -25,17 +25,15 @@ My experience spans large existing products, custom WordPress/WooCommerce develo
 <table>
 <tr>
 <td align="center"><strong>10+</strong><br/>Years developing</td>
-<td align="center"><strong>600+</strong><br/>Webilia PRs</td>
-<td align="center"><strong>400+</strong><br/>Listdom Core PRs</td>
-<td align="center"><strong>200+</strong><br/>Add-on / related PRs</td>
+<td align="center"><strong>5</strong><br/>Core engineering domains</td>
+<td align="center"><strong>30+</strong><br/>Add-ons & integrations</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td align="center"><strong>30+</strong><br/>Add-ons worked on</td>
-<td align="center"><strong>4</strong><br/>Major Webilia components</td>
-<td align="center"><strong>5</strong><br/>Core engineering domains</td>
+<td align="center"><strong>10+</strong><br/>Years developing</td>
+<td align="center"><strong>4</strong><br/>Major components built</td>
 <td align="center"><strong>Public + private</strong><br/>Portfolio evidence</td>
 </tr>
 </table>
@@ -101,14 +99,15 @@ Because Webilia's source code is proprietary, the public GitHub portfolio cannot
 ### Infrastructure & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,apache,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,apache,git,githubactions,bash" />
 </p>
 
-**Linux · Docker · Docker Compose · Kubernetes · Nginx · Apache · LiteSpeed · Git · GitHub Actions**
+**Linux · Docker · Docker Compose · Kubernetes · Nginx · Apache · LiteSpeed · Git · GitHub Actions · Bash**
 
 ---
 
 ## 🧠 Engineering Focus
+
 
 - Full-stack web architecture
 - PHP / WordPress / WooCommerce engineering
