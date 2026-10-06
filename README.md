@@ -81,8 +81,8 @@ The Webilia/Listdom codebase is proprietary, so its implementation is not presen
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" height="165" alt="GitHub statistics" />
-  <img src="./profile/top-langs.svg" height="165" alt="GitHub language statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamanAziziSiyan&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanAziziSiyan&layout=compact&hide_border=true" height="165" alt="Top languages" />
 </p>
 
 ---
