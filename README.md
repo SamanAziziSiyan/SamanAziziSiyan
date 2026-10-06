@@ -71,4 +71,46 @@ The Webilia/Listdom codebase is proprietary, so its implementation is not presen
 ## 🧰 Core Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,redis,js,ts,react,nextjs,tailwind,jquery,linux,docker,kubernetes,nginx,apache,l
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,redis,js,ts,react,nextjs,tailwind,jquery,linux,docker,kubernetes,nginx,apache,litespeed,git,githubactions,bash" />
+</p>
+
+**PHP · Laravel · WordPress · WooCommerce · Composer · MySQL · MariaDB · Redis · JavaScript · TypeScript · React · Next.js · jQuery · Tailwind CSS · Linux · Docker · Kubernetes · Nginx · Apache · LiteSpeed · Git · GitHub Actions · Bash**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="./profile/stats.svg" height="165" alt="GitHub statistics" />
+  <img src="./profile/top-langs.svg" height="165" alt="GitHub language statistics" />
+</p>
+
+---
+
+## 🔍 How to Read This Profile
+
+This profile separates different types of engineering evidence:
+
+**Live products**  
+Public websites and products where the resulting work can be inspected.
+
+**Public source**  
+Repositories where implementation can be reviewed directly.
+
+**Professional work**  
+Production work performed within proprietary codebases that cannot legitimately be published as source.
+
+Historical, client, duplicate, experimental, or sanitized repositories are labeled accordingly rather than being presented as separate production products.
+
+---
+
+## 📚 More
+
+- [Portfolio website](./docs/index.html)
+- [Portfolio evidence index](./PORTFOLIO.md)
+- [LinkedIn](https://www.linkedin.com/in/saman-azizi-siyan/)
+- [GitHub repositories](https://github.com/SamanAziziSiyan?tab=repositories)
+
+---
+
+*Building systems, not just interfaces.*
