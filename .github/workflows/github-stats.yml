@@ -1,0 +1,64 @@
+name: Update README GitHub stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verify authenticated token
+        env:
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: |
+          set -euo pipefail
+          test -n "$GH_TOKEN"
+          USER_LOGIN="$(gh api user --jq '.login')"
+          echo "Authenticated as: $USER_LOGIN"
+          gh api rate_limit --jq '"API rate limit: " + (.resources.core.remaining|tostring) + "/" + (.resources.core.limit|tostring)'
+          PRIVATE_REPOS="$(gh api 'user/repos?visibility=private&affiliation=owner,collaborator,organization_member&per_page=100' --paginate --jq '.[].full_name' | sort -u | wc -l | tr -d ' ')"
+          echo "Private repositories visible to token: $PRIVATE_REPOS"
+
+      - name: Generate GitHub stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent
+          path: profile/stats.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=transparent&exclude_repo=profile
+          path: profile/top-langs.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+          fail_on_error: true
+
+      - name: Validate generated files
+        run: |
+          set -euo pipefail
+          test -s profile/stats.svg
+          test -s profile/top-langs.svg
+          ! grep -qiE "Something went wrong|rate limiting|MAX_RETRY|Card generation failed" profile/stats.svg
+          ! grep -qiE "Something went wrong|rate limiting|MAX_RETRY|Card generation failed" profile/top-langs.svg
+
+      - name: Commit updated cards
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg
+          git diff --cached --quiet || git commit -m "Update README GitHub stats"
+          git push
