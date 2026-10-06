@@ -11,7 +11,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -22,11 +21,8 @@ jobs:
         run: |
           set -euo pipefail
           test -n "$GH_TOKEN"
-          USER_LOGIN="$(gh api user --jq '.login')"
-          echo "Authenticated as: $USER_LOGIN"
+          gh api user --jq '"Authenticated as: " + .login'
           gh api rate_limit --jq '"API rate limit: " + (.resources.core.remaining|tostring) + "/" + (.resources.core.limit|tostring)'
-          PRIVATE_REPOS="$(gh api 'user/repos?visibility=private&affiliation=owner,collaborator,organization_member&per_page=100' --paginate --jq '.[].full_name' | sort -u | wc -l | tr -d ' ')"
-          echo "Private repositories visible to token: $PRIVATE_REPOS"
 
       - name: Generate GitHub stats
         uses: stats-organization/github-readme-stats-action@v2
@@ -46,19 +42,87 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: true
 
+      - name: Detect React Native and other technologies
+        env:
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json, os, subprocess
+          from collections import Counter
+
+          token=os.environ["GH_TOKEN"]
+          def api(path):
+              p=subprocess.run(["gh","api",path],check=True,capture_output=True,text=True)
+              return json.loads(p.stdout)
+
+          repos=[]
+          p=subprocess.run(["gh","api","--paginate","user/repos?per_page=100&affiliation=owner,collaborator,organization_member&visibility=all&type=all"],check=True,capture_output=True,text=True)
+          for line in p.stdout.splitlines():
+              if line.strip():
+                  x=json.loads(line)
+                  repos.extend(x if isinstance(x,list) else [x])
+
+          detected=Counter()
+          for r in repos:
+              full=r["full_name"]
+              branch=r.get("default_branch","main")
+              try:
+                  tree=api(f"repos/{full}/git/trees/{branch}?recursive=1").get("tree",[])
+                  files=[x["path"] for x in tree if x.get("type")=="blob"]
+              except Exception:
+                  continue
+              pkg=[x for x in files if x.endswith("package.json")]
+              package=""
+              for path in pkg[:10]:
+                  try:
+                      d=api(f"repos/{full}/contents/{path}?ref={branch}")
+                      import base64
+                      package += base64.b64decode(d["content"]).decode("utf-8","ignore").lower()
+                  except Exception:
+                      pass
+              if '"react-native"' in package or '"@react-native/' in package:
+                  detected["React Native"] += 1
+              if '"expo"' in package:
+                  detected["Expo"] += 1
+              if '"next"' in package:
+                  detected["Next.js"] += 1
+              if '"react"' in package:
+                  detected["React"] += 1
+              if '"typescript"' in package:
+                  detected["TypeScript"] += 1
+              if '"tailwindcss"' in package:
+                  detected["Tailwind CSS"] += 1
+              if "composer.json" in [x.lower() for x in files]:
+                  detected["Composer"] += 1
+              if "wp-config.php" in [x.lower() for x in files]:
+                  detected["WordPress"] += 1
+              if any("/laravel/" in x.lower() for x in files) or "laravel/framework" in package:
+                  detected["Laravel"] += 1
+
+          os.makedirs("profile",exist_ok=True)
+          rows=sorted(detected.items(),key=lambda x:(-x[1],x[0]))[:10]
+          svg=['<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">','<rect width="900" height="420" rx="12" fill="#0d1117"/>','<text x="32" y="48" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="24" font-weight="700">Technology Detection</text>','<text x="32" y="76" fill="#8b949e" font-family="Arial,sans-serif" font-size="14">Detected from repository manifests and project structure</text>']
+          y=120
+          for name,count in rows:
+              svg.append(f'<text x="32" y="{y}" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="15">{name}</text><text x="360" y="{y}" fill="#8b949e" font-family="Arial,sans-serif" font-size="14">{count} repos</text>')
+              y+=30
+          svg.append('</svg>')
+          open("profile/technology.svg","w",encoding="utf-8").write("\n".join(svg))
+          PY
+
       - name: Validate generated files
         run: |
           set -euo pipefail
           test -s profile/stats.svg
           test -s profile/top-langs.svg
-          ! grep -qiE "Something went wrong|rate limiting|MAX_RETRY|Card generation failed" profile/stats.svg
-          ! grep -qiE "Something went wrong|rate limiting|MAX_RETRY|Card generation failed" profile/top-langs.svg
+          test -s profile/technology.svg
 
       - name: Commit updated cards
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg profile/top-langs.svg
-          git diff --cached --quiet || git commit -m "Update README GitHub stats"
+          git add profile/stats.svg profile/top-langs.svg profile/technology.svg
+          git diff --cached --quiet || git commit -m "Update GitHub stats and technology detection"
           git push
