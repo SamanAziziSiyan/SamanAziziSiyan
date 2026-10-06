@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<rect width="900" height="420" rx="12" fill="#0d1117"/>
+<text x="32" y="48" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="24" font-weight="700">Technology Detection</text>
+<text x="32" y="76" fill="#8b949e" font-family="Arial,sans-serif" font-size="14">Repository-aware technology detection • refreshed by GitHub Actions</text>
+<text x="32" y="120" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="15">PHP</text>
+<text x="32" y="150" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="15">TypeScript</text>
+<text x="32" y="180" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="15">JavaScript</text>
+<text x="32" y="210" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="15">WordPress</text>
+<text x="32" y="240" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="15">Laravel</text>
+<text x="32" y="270" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="15">React</text>
+<text x="32" y="300" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="15">React Native</text>
+<text x="32" y="330" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="15">Expo</text>
+<text x="32" y="360" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">This file is a valid initial card; the scheduled workflow replaces it with repository-derived counts.</text>
+</svg>
