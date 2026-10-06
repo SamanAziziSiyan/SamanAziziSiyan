@@ -86,6 +86,10 @@ The Webilia/Listdom codebase is proprietary, so its implementation is not presen
 </p>
 
 <p align="center">
+  <img src="./profile/technology.svg" width="900" alt="Detected engineering technologies" />
+</p>
+
+<p align="center">
   <sub>
     Generated automatically by GitHub Actions using authenticated GitHub data, including private repositories accessible to the configured statistics token.
   </sub>
